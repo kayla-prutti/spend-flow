@@ -1,8 +1,10 @@
+import MenuBar from './menu-bar/manu-bar'
+
 function App() {
 
   return (
     <>
-      <h1>Hi there</h1>
+      <MenuBar />
     </>
   )
 }
